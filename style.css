@@ -102,7 +102,9 @@ p {
 .main-image{
     height:400px;
     width:400px;
+    mix-blend-mode: multiply;
 }
+
 /* HOME PAGE */
 
 .container {
