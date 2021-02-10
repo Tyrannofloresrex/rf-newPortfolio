@@ -228,14 +228,14 @@ textarea, input [type=text]{
 #first-card{
     background-color: rgb(0, 0, 0);
     background-repeat: no-repeat;
-    background-image: url("/assets/Soundschnobscreenshot.png");
+    background-image: url("/assets/Soundschnobscreenshot.jpg");
     background-size: 100%;
     background-position: center;
     transition:all .5s;
 
 }
 #first-card:hover{
-    background-image: url("/assets/Soundschnobscreenshot.png");
+    background-image: url("/assets/Soundschnobscreenshot.jpg");
     background-size: 250%;
     background-position: center;
 
@@ -244,14 +244,14 @@ textarea, input [type=text]{
 #second-card{
     background-color: rgb(0, 0, 0);
     background-repeat: no-repeat;
-    background-image: url("/assets/plannerImg.png");
+    background-image: url("/assets/plannerImg.jpg");
     background-size: 100%;
     background-position: center;
     transition:all .5s;
 
 }
 #second-card:hover{
-    background-image: url("/assets/plannerImg.png");
+    background-image: url("/assets/plannerImg.jpg");
     background-size: 250%;
     background-position: center;
 
@@ -260,14 +260,14 @@ textarea, input [type=text]{
 #third-card{
     background-color: rgb(0, 0, 0);
     background-repeat: no-repeat;
-    background-image: url("/assets/pokebatexImg.png");
+    background-image: url("/assets/pokebatexImg.jpg");
     background-size: 100%;
     background-position: center;
     transition:all .5s;
 
 }
 #third-card:hover{
-    background-image: url("/assets/pokebatexImg.png");
+    background-image: url("/assets/pokebatexImg.jpg");
     background-size: 250%;
     background-position: center;
 
@@ -276,14 +276,14 @@ textarea, input [type=text]{
 #fourth-card{
     background-color: rgb(0, 0, 0);
     background-repeat: no-repeat;
-    background-image: url("/assets/despensa-landing-page.png");
+    background-image: url("/assets/despensa-landing-page.jpg");
     background-size: 100%;
     background-position: center;
     transition:all .5s;
 
 }
 #fourth-card:hover{
-    background-image: url("/assets/despensa-landing-page.png");
+    background-image: url("/assets/despensa-landing-page.jpg");
     background-size: 250%;
     background-position: center;
 
